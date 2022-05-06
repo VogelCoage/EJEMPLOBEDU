@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # EJEMPLOBEDU
+=======
+# EJEMPLOBEDU
+>>>>>>> e68351818a4265f93f9c52b500ddf55365e9f22d
